@@ -6,6 +6,12 @@ I am an **Informatics Engineering Student** at Semarang State University that ha
 -📫 How to reach me: dafaaldian25@gmail.com
 -⚡ Fun fact: someone who is looking for identity
 
+- 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
+- 🌱 I’m currently learning about cloud technology for back-end apps
+- 💬 Feel free to ask me about web development or JavaScript
+- 📫 How to reach me: dimas@dicoding.com
+- ⚡ Fun fact: Father of a daughter
+
 ### Tech Stack
   <a href="https://kotlinlang.org/"> <img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Kotlin_logo.svg" /> </a>
   <a href="#"><img align="left" alt="Java" title="Java" width="21px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/182px-Java_programming_language_logo.svg.png"><a/>
