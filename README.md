@@ -1,5 +1,7 @@
 # Hi i'm Dafa! 
 
-I am an **Informatics Engineering Student** at Semarang State University. I have some experience creating mobile applications and websites.
+I am an **Informatics Engineering Student** at Semarang State University that have some experience creating mobile applications and websites.
 
-If you are interested in getting to know me, please follow my [Linkedin] account www.linkedin.com/in/m-dafa-aldian-629a81232).
+🌱 I’m currently learning about Android technology in Bangkit Academy
+📫 How to reach me: dafaaldian25@gmail.com
+⚡ Fun fact: someone who is looking for identity
