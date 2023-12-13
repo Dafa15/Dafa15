@@ -2,9 +2,9 @@
 
 I am an **Informatics Engineering Student** at Semarang State University that have some experience creating mobile applications and websites.
 
-🌱 I’m currently learning about Android technology in Bangkit Academy
-📫 How to reach me: dafaaldian25@gmail.com
-⚡ Fun fact: someone who is looking for identity
+-🌱 I’m currently learning about Android technology in Bangkit Academy
+-📫 How to reach me: dafaaldian25@gmail.com
+-⚡ Fun fact: someone who is looking for identity
 
 ### Tech Stack
   <a href="https://kotlinlang.org/"> <img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Kotlin_logo.svg" /> </a>
