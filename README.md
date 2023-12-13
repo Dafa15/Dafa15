@@ -1,9 +1,5 @@
-# Halo semua! 
+# Hi i'm Dafa! 
 
-Perkenalkan nama saya **M. Dafa Aldian**.<br>
+I am an **Informatics Engineering Student** at Semarang State University. I have some experience creating mobile applications and websites.
 
-Saya seorang **Mahasiswa Teknik Informatika** di Universitas Negeri Semarang.<br>
-
-Saya memiliki beberapa pengelaman membuat aplikasi berbentuk mobile dan website.
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin] www.linkedin.com/in/m-dafa-aldian-629a81232) ku ya.
+If you are interested in getting to know me, please follow my [Linkedin] account www.linkedin.com/in/m-dafa-aldian-629a81232).
