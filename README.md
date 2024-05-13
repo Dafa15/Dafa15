@@ -10,6 +10,8 @@ I am an **Informatics Engineering Student** at Semarang State University that ha
   <a href="https://kotlinlang.org/"> <img align="left" alt="Kotlin" title="Kotlin" height="21px" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Kotlin_logo.svg" /> </a>
   <a href="#"><img align="left" alt="Java" title="Java" height="21px" width="21px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/182px-Java_programming_language_logo.svg.png"><a/>
   <a href="#"><img align="left" alt="SQL" title="SQL" height="21px" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"> <a/> 
+  <a href="#"><img align="left" alt="Flutter" title="Flutter" height="21px" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/768px-Google-flutter-logo.svg.png"> <a/> 
+  <a href="#"><img align="left" alt="JavaScript" title="Javascript" height="21px" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> <a/> 
   <br>
   <br>
   
