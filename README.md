@@ -2,7 +2,7 @@
 
 I am an **Informatics Engineering Student** at Semarang State University that have some experience creating mobile applications and websites.
 
-- 🌱 I’m currently learning flutter in Alterra Academy
+- 🌱 I’m currently learning flutter
 - 📫 How to reach me: dafaaldian25@gmail.com
 - ⚡ Fun fact: someone who is looking for identity
 
@@ -12,6 +12,8 @@ I am an **Informatics Engineering Student** at Semarang State University that ha
   <a href="#"><img align="left" alt="SQL" title="SQL" height="21px" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"> <a/> 
   <a href="#"><img align="left" alt="Flutter" title="Flutter" height="21px" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/768px-Google-flutter-logo.svg.png"> <a/> 
   <a href="#"><img align="left" alt="JavaScript" title="Javascript" height="21px" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> <a/> 
+  <a href="#"><img align="left" alt="Laravel" title="Laravel" height="21px" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/180px-Laravel.svg.png"> <a/> 
+  <a href="#"><img align="left" alt="Postman" title="Postman" height="21px" width="21px" src="https://www.cdnlogo.com/logos/p/20/postman.svg"> <a/> 
   <br>
   <br>
   
